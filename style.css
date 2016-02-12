@@ -1,0 +1,48 @@
+.nav-item{
+    float: left;
+    width: 15%;
+    text-align: center;
+}
+
+#sidebar{
+    float: right;
+    width: 50%;
+    
+}
+
+#nav{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+img{
+    width: 300px;
+}
+
+#panel-photo{
+    float: left;
+}
+
+
+#class-photo{
+    float: right;
+}
+
+#article{
+    clear: right;
+    float: left;
+    width: 50%;
+    font-size: 20px;
+}
+
+.footer{
+    clear: both;
+}
+
+.footer-item{
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+
